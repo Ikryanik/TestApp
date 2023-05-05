@@ -35,5 +35,6 @@
 Для ускорения выборки данных добавила возможность создания индексов. Это ускоряет выполнение фильтрации почти **в 2 раза**, скриншоты ниже:
 До добавления индексов: 
 ![alt text](https://github.com/Ikryanik/TestApp/blob/master/images/before.png?raw=true)
+
 После добавления индексов:
 ![alt text](https://github.com/Ikryanik/TestApp/blob/master/images/after.png?raw=true)
